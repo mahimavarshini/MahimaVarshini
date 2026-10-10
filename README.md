@@ -14,12 +14,13 @@
 
 ### 👩‍💻 About Me
 
-- 🎯 **Domain Interest:** Data Science, Machine Learning & Business Intelligence
-- 💼 **Currently:** Intern at **Calibo**
-- 📊 **Hands-on with:** Predictive modeling, EDA, and interactive dashboards
-- 🛠️ **Built:** Machine learning pipelines & Power BI business analytics reports
-- 💬 **Ask me about:** Python, Logistic Regression, Linear Models, Power BI
-- 🎯 **Goal:** Building impactful data-driven solutions
+- 🎓 **Computer Science Undergrad** passionate about software development, technology, and building real-world solutions.
+- 💼 **Currently:** Intern at **Calibo**, working on industry use cases and technical tasks.
+- 💻 **Interests:** Software Engineering, Data Analytics, Business Intelligence & Modern Tech Stacks.
+- 🛠️ **Hands-on with:** Python, C, Java, Power BI, and Version Control (Git/GitHub).
+- 💡 **Focus:** Strong problem-solving, structured programming, and learning new tools quickly.
+- 💬 **Ask me about:** Programming, data visualization, and software projects.
+- 🎯 **Goal:** Becoming a versatile software engineer building impactful applications.
 
 ---
 
