@@ -14,15 +14,14 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 **Computer Science Undergrad** passionate about software development, technology, and building real-world solutions.
-- 💼 **Currently:** Intern at **Calibo**, working on industry use cases and technical tasks.
-- 💻 **Interests:** Software Engineering, Data Analytics, Business Intelligence & Modern Tech Stacks.
-- 🛠️ **Hands-on with:** Python, C, Java, Power BI, and Version Control (Git/GitHub).
-- 💡 **Focus:** Strong problem-solving, structured programming, and learning new tools quickly.
-- 💬 **Ask me about:** Programming, data visualization, and software projects.
-- 🎯 **Goal:** Becoming a versatile software engineer building impactful applications.
+- 🎓 **Computer Science Undergrad** passionate about technology and problem-solving.
+- 💼 **Currently:** Intern at **Calibo**, working on real-world industry tasks.
+- 🛠️ **Hands-on with:** Python and SQL
+- 📊 **Experienced in:** NumPy, Pandas, Data Visualization & Power BI
+- 🤖 **Working with:** Machine Learning and Generative AI (GenAI)
+- 💡 **Focus:** Building practical solutions and writing clean, structured code.
+- 💬 **Ask me about:** Python, SQL, Data Analytics & Project workflows
 
----
 
 ### 🛠️ Tech Arsenal
 
