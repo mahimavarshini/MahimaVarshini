@@ -4,7 +4,7 @@
 
 ### Computer Science Undergrad • Data & ML Intern @ Calibo
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahima-varshini-ramachandrapurapu-7824a52a8)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mahima-varshini-ramachandrapurapu-7824a52a8)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahimavarshini)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varshiniramachandrapurapu@gmail.com)
 
@@ -85,7 +85,7 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/LET'S%20COLLABORATE-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varshiniramachandrapurapu@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LET'S%20NETWORK-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahima-varshini-ramachandrapurapu-7824a52a8)
+[![LinkedIn](https://img.shields.io/badge/LET'S%20NETWORK-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mahima-varshini-ramachandrapurapu-7824a52a8)
 [![GitHub](https://img.shields.io/badge/CHECK%20MY%20CODE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahimavarshini)
 
 </div>
